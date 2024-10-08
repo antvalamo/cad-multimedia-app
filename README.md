@@ -29,8 +29,4 @@ These files should contain two columns: 'statement' and 'status'.
 ```bash
 python bert_trainer.py
 ```
-
-
-
-
-These files should contain two columns: 'statement' and 'status'.
+The script will train three different BERT models using the provided datasets and save the trained models and metrics in the models/ folder.
