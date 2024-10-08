@@ -9,7 +9,7 @@ Ensure you have the following libraries installed: **pandas**, **scikit-learn**,
 ```bash
 pip install pandas scikit-learn torch transformers
 
-# 📁 Necessary Files
+## 📋 Requirements
 
 Make sure you have the following CSV files in the `data/` directory:
 
