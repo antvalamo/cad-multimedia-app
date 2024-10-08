@@ -8,13 +8,17 @@ Ensure you have the following libraries installed: **pandas**, **scikit-learn**,
 
 ```bash
 pip install pandas scikit-learn torch transformers
+```
 
-## 📋 Requirements
+## 📁 Necessary Files
 
 Make sure you have the following CSV files in the `data/` directory:
 
 - `df_custom_v1_1.csv`
 - `df_kaggle_v1_0.csv`
 - `df_combined.csv`
+
+These files should contain two columns: 'statement' and 'status'.
+
 
 These files should contain two columns: 'statement' and 'status'.
