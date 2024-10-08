@@ -9,18 +9,12 @@ Ensure you have the following libraries installed: **pandas**, **scikit-learn**,
 ```bash
 pip install pandas scikit-learn torch transformers
 
-📁 Necessary Files
+# 📁 Necessary Files
 
-Make sure you have the following CSV files in the data/ directory:
+Make sure you have the following CSV files in the `data/` directory:
 
-    df_custom_v1_1.csv
-    df_kaggle_v1_0.csv
-    df_combined.csv
+- `df_custom_v1_1.csv`
+- `df_kaggle_v1_0.csv`
+- `df_combined.csv`
 
 These files should contain two columns: 'statement' and 'status'.
-
-🚀 How to Run the Script
-
-    Open a terminal or command prompt.
-    Navigate to the directory where your bert_trainer.py file is located.
-    Execute the script by typing the following command:
