@@ -20,5 +20,17 @@ Make sure you have the following CSV files in the `data/` directory:
 
 These files should contain two columns: 'statement' and 'status'.
 
+## 🚀 How to Run the Script
+
+1. Open a terminal or command prompt.
+2. Navigate to the directory where your `bert_trainer.py` file is located.
+3. Execute the script by typing the following command:
+
+```bash
+python bert_trainer.py
+```
+
+
+
 
 These files should contain two columns: 'statement' and 'status'.
